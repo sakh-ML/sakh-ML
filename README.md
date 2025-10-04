@@ -36,4 +36,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakh-ML&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakh-ML&layout=compact&theme=github_dark)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![sakh-ML's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakh-ML&theme=github-compact)](https://github.com/sakh-ML)
+
+---
+
 > "Close to the metal, closer to mastery — where software meets hardware magic." ⚙️
