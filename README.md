@@ -1,23 +1,25 @@
 # 👋 Hi, I’m @sakh-ML
 
-- 🧠 I’m passionate about **Embedded Systems**, **Low-Level Programming**, and **Software Engineering**
+- 🧠 I’m passionate about **Embedded Systems**, **Microcontrollers**, and **IoT Development**
 - 🎓 Currently studying **Computer Science** at **TU Dortmund**, Germany
 - 👀 I’m especially interested in:
-  - **Embedded software** and **microcontroller / microprocessor programming (C, C++)**
-  - **Hardware–software interaction** and **system optimization**
-  - **Automation and testing** using Python
-  - Clean, efficient, and reliable system design
+  - **Bare-metal programming** and **firmware development** (C, C++)
+  - **Hardware-software interaction** on microcontrollers and microprocessors
+  - **IoT systems** and connected devices
+  - **Automation and testing** with Python
+  - Optimizing system performance and reliability
 - 🌱 Right now, I’m focusing on:
-  - **Embedded development** (bare-metal C, RTOS, peripherals, and drivers)
-  - **Hardware-level debugging** and **performance analysis**
+  - **Embedded development** (RTOS, peripherals, sensors, actuators)
+  - **Hardware-level debugging** and **low-level system design**
   - **Python scripting** for testing, automation, and data logging
+  - Building small IoT projects and real-world hardware prototypes
 - 💞️ I love collaborating on:
-  - Embedded projects, firmware, and system-level software
-  - Hardware interfacing, IoT, and automation tools
+  - Embedded projects, firmware, and low-level system design
+  - IoT and automation systems
   - Open-source embedded tools and utilities
 - 📫 Reach me at: **mohamad.abusaleh0@gmail.com**
 - 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: I once built a **custom processor from scratch** — real logic gates, real hardware, and a lot of coffee ☕
+- ⚡ Fun fact: I built a **custom processor from scratch** — real gates, real hardware, real learning! 🛠️
 
 ---
 
@@ -29,6 +31,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Embedded-Systems-orange?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-6CC24A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -49,4 +52,4 @@
 
 ---
 
-> "Close to the metal, closer to mastery — where software meets hardware magic." ⚙️
+> "Close to the metal, closer to mastery — where hardware and software meet in perfect harmony." ⚡
